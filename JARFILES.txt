@@ -1,0 +1,6 @@
+https://mvnrepository.com/artifact/de.rototor.pdfbox/graphics2d/3.0.0
+https://mvnrepository.com/artifact/org.jsoup/jsoup/1.16.1
+https://mvnrepository.com/artifact/com.openhtmltopdf/openhtmltopdf-pdfbox/1.0.10
+https://mvnrepository.com/artifact/com.openhtmltopdf/openhtmltopdf-core/1.0.10
+https://repo1.maven.org/maven2/org/apache/pdfbox/pdfbox/2.0.24/    (download only pdfbox-2.0.24.JAR)
+https://repo1.maven.org/maven2/org/apache/pdfbox/xmpbox/2.0.3/      (download only xmpbox-2.0.3.JAR)
